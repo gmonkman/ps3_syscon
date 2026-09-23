@@ -1,4 +1,3 @@
-python3 - <<'PY'
 import serial
 import time
 
@@ -22,4 +21,3 @@ print("Received:", data.hex())
 print("As text:", repr(data))
 
 s.close()
-PY
