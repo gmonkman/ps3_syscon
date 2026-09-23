@@ -17,6 +17,7 @@
 .idea/*.iws
 
 # User-specific files
+*.iml
 *.suo
 *.user
 *.userosscache
